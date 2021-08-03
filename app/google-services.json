@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962491474246",
+    "project_id": "project-vebex",
+    "storage_bucket": "project-vebex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962491474246:android:f0ab7e5efc2d63c2bc4547",
+        "android_client_info": {
+          "package_name": "com.example.the_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962491474246-900girelqir6pi7aosneoain3ci9ua4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ22wRelxlQc-ntgkPChc95PDPozPai98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962491474246-900girelqir6pi7aosneoain3ci9ua4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

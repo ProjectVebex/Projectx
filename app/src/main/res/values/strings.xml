@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The_Project</string>
+    <string name="verbex">Verbex app or chatting and group Work</string>
+    <string name="LoginEmail">Email</string>
+    <string name="LoginPassword">Password</string>
+    <string name="from">FROM</string>
+    <string name="From_Clg">Walchand College of Engineering,Sangli</string>
+    <string name="login">Login</string>
+    <string name="rname">Surname Name MiddleName</string>
+    <string name="remail">email@walchandsangli.ac.in</string>
+    <string name="rpassword">Password</string>
+    <string name="rconfirmpassword">Confirm Password</string>
+    <string name="register">Register</string>
+</resources>
